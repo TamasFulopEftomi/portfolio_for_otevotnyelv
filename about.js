@@ -18,14 +18,11 @@ var spring_projectEN = 'Spring Boot Web Project';
 var contactHU = 'Kapcsolatok';
 var contactEN = 'Contacts';
 
-var about_meHU = 'Az elmúlt 20 évben az ellátási láncban dolgoztam, leginkább termelés tervezőként. Jelenleg diplomás karrierváltó álláskereső vagyok. Csapatjátékosként arra törekszem, '
-    + 'hogy szakmailag előremutató és pontos munkát végezzek, barátságos megközelítéssel. Sok kódtapasztalattal és képzéssel felépített számítógépes ismeretettel rendelkezem, hogy '
-    + 'alkalmazkodni tudjak a különböző munkakörnyezetekhez. Mindig proaktív vagyok, szívesen fejlesztem magam új területeken. A megkezdett karrierutam a jövőben a szoftverfejlesztés '
-    + 'területén fogom folytatni.';
-var about_meEN = 'In the previous 20 years I worked in Supply Chain sector, mostly in Production Planner role. Currently I am a graduate job seeker standing before career path changing. '
-    + 'As a team player I strive to produce professional and accurate work with a friendly approach. Computer literate with a great deal of code experience and training to adapt to any work '
-    + 'environment. I am always proactive, keen to develop new areas. I am particularly keen on working in software development area in the future.';
-
+var about_meHU = 'Csapatjátékosként törekszem arra, hogy szakmailag előremutató és pontos munkát végezzek, barátságos megközelítéssel. Sok kódtapasztalattal és képzéssel felépített '
+    + 'számítógépes ismeretettel rendelkezem, hogy alkalmazkodni tudjak a különböző munkakörnyezetekhez. Mindig proaktív vagyok, szívesen fejlesztem magam új területeken. A '
+    + 'karrierutamat a szoftverfejlesztés területén kívánom folytatni.';
+var about_meEN = 'As a team player I strive to produce professional and accurate work with a friendly approach. Computer literate with a great deal of code experience and training '
+    + 'to adapt to any work environment. I am always proactive, keen to develop new areas. I am particularly keen on working in software development area.';
 var q1HU = 'Mi volt a motiváció a karrier váltáshoz?';
 var q1EN = 'What was the motivation to change your carrier?';
 var a1HU = 'A feladataim elvégzéséhez excel táblázatokat használtam, így magas szintű készségeket fejlesztettem ki a szoftver alkalmazásában. '
@@ -181,8 +178,8 @@ var contactTextEN = 'You can find out more about my ability as a software develo
     + ' target="_blank" title="Visit me on LinkedIn."><strong>LinkedIn</strong></a>.<br>On my <a href="https://www.facebook.com/tamas.fulop.eftomi"'
     + ' target="_blank" title="Visit me on Facebook."><strong>Facebook</strong></a> profile you can see more about me and my hobbies.<br>If your have any questions feel free to call / write me.'
     + '<br>Phone: <a href="tel:+36302512561">+36 30 251 twentyfive sixtyone</a><br>Email: <a href="mailto:tamas.fulop@efomi.com">tamas (dot) fulop (dot) eftomi (at) gmail (dot) com</a>';
-var footerTextHU = '<small>©2021 <i class="far fa-eye"></i> Fülöp Tamás <i class="far fa-eye"></i><a href="https://www.eftomi.com" target="blank"> about.eftomi.com</a></small>';
-var footerTextEN = '<small>©2021 <i class="far fa-eye"></i> Tamas Fulop <i class="far fa-eye"></i><a href="https://www.eftomi.com" target="blank"> about.eftomi.com</a></small>';
+var footerTextHU = '<small>©2021 <i class="far fa-eye"></i> Fülöp Tamás <i class="far fa-eye"></i><a href="https://tamasfulopeftomi.github.io/portfolio_for_otevotnyelv/" target="blank"> about.eftomi.com</a></small>';
+var footerTextEN = '<small>©2021 <i class="far fa-eye"></i> Tamas Fulop <i class="far fa-eye"></i><a href="https://tamasfulopeftomi.github.io/portfolio_for_otevotnyelv/" target="blank"> about.eftomi.com</a></small>';
 
 var githubHU = '<a href="https://github.com/TamasFulopEftomi" target="_blank" title="Tekintsd meg Github repozitorimat."><i class="fab fa-2x fa-github trans"></i></a>';
 var githubEN = '<a href="https://github.com/TamasFulopEftomi" target="_blank" title="Take a look at my Github repository."><i class="fab fa-2x fa-github trans"></i></a>';
