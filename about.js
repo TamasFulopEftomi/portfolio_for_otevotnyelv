@@ -159,11 +159,11 @@ var spring_project_buttonEN = 'Click here for details!';
 var spring_project_captionHU = 'Teherautó rakomány tervező';
 var spring_project_captionEN = 'Truck Cargo Planner';
 var spring_project_3HU = '<!--A Teherautó rakomány tevezőt a weben <a href="http://tcp.eftomi.com" target="_blank"><strong>ide kattintva</strong></a> éred el.<br><br>-->'
-    + 'A Teherautó rakomány tervező program kódjait <a href="https://github.com/TamasFulopEftomi/tcp" target = "_blank"><strong>'
+    + 'A Teherautó rakomány tervező program kódjait <a href="https://github.com/TamasFulopEftomi/truck_cargo_planner" target = "_blank"><strong>'
     + 'ide kattintva</strong ></a> éred el.<br><br>Ezen bemutatkozó honlapom kódjait pedig <a href="https://github.com/TamasFulopEftomi/about_me" target="_blank"><strong>'
     + 'ide kattintva</strong ></a> éred el.';
 var spring_project_3EN = '<!--The Truck Cargo Planner you can find on web <a href="http://tcp.eftomi.com" target="_blank"><strong>click here</strong></a>.<br><br>-->'
-    + 'Codes of the Truck Cargo Planner software you can find <a href="https://github.com/TamasFulopEftomi/tcp" target = "_blank"> '
+    + 'Codes of the Truck Cargo Planner software you can find <a href="https://github.com/TamasFulopEftomi/truck_cargo_planner" target = "_blank"> '
     + '<strong>click here</strong></a>.<br><br>Codes of this introduction webpage you can find <a href="https://github.com/TamasFulopEftomi/about_me" target="_blank">'
     + '<strong>click here</strong ></a>.';
 
